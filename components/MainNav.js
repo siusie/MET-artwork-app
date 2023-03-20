@@ -34,7 +34,7 @@ export default function MainNav() {
         <>
             <Navbar bg="light" variant="light" expand="lg" className="fixed-top" expanded={expanded} >
                 <Container>
-                    <Navbar.Brand>🖼&nbsp;Artwork Finder</Navbar.Brand>
+                    <Navbar.Brand>🎨&nbsp;Artwork Finder</Navbar.Brand>
                     <Navbar.Toggle aria-controls="basic-navbar-nav" onClick={() => setExpanded(expanded ? false : "expanded")} />
                     <Navbar.Collapse id="basic-navbar-nav"  >
                         <Nav className="me-auto">
