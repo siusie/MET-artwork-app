@@ -1,7 +1,7 @@
 ## About
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app). It is deployed at [artwork-finder.vercel.app](https://artwork-finder.vercel.app/).
 
-Create an account to browse through The Metropolitan Museum of Art&apos;s collection
+Create an account to browse through the gallery of [The Metropolitan Museum of Art](https://metmuseum.github.io/)!
 
 ## Getting Started
 
