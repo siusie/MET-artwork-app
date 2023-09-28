@@ -32,7 +32,7 @@ export default function ArtworkCard(props) {
                         <strong>Classification:</strong> {data?.classification ? data.classification : "N/A"}  <br />
                         <strong>Medium:</strong> {data?.medium ? data.medium : "N/A"} <br />
                     </Card.Text>
-                    <Link href={`/artwork/${data?.objectID}`} passHref><a><Button onClick={(e) => { doNavigation(e, `/artwork/${data?.objectID}`) }} variant="outline-primary">ID: {data?.objectID}</Button></a></Link>
+                    <Link href={`/artwork/${data?.objectID}`} passHref><a target="_blank"><Button onClick={(e) => { doNavigation(e, `/artwork/${data?.objectID}`) }} variant="outline-primary">ID: {data?.objectID}</Button></a></Link>
                 </Card.Body>
             </Card>
 
