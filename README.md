@@ -1,11 +1,28 @@
 ## About
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app). It is deployed at [artwork-finder.vercel.app](https://artwork-finder.vercel.app/).
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-Create an account to browse through The Metropolitan Museum of Art&apos;s collection
+Create an account to browse through the gallery of [The Metropolitan Museum of Art](https://metmuseum.github.io/)!
 
-## Getting Started
+## Example live site
 
-First, run the development server:
+This web app is deployed at [artwork-finder.vercel.app](https://artwork-finder.vercel.app/)
+
+### Main layout
+![image](https://github.com/siusie/MET-artwork-app/assets/93149998/7504a94c-b2ec-4fcf-a09b-277ddd3f60fc)
+
+### Account registration
+Create an account and log in, which takes you to the page that will contain your favourited artwork.
+
+![image](https://github.com/siusie/MET-artwork-app/assets/93149998/11b05379-5ed5-44b7-9b12-1dff859d1f59)
+
+### Searching artwork
+There are two options: regular and advanced search.
+
+Regular search looks up artwork by title:
+
+
+
+To run the server locally:
 
 ```bash
 npm run dev
@@ -13,10 +30,4 @@ npm run dev
 yarn dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
-
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
-
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
