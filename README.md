@@ -42,11 +42,5 @@ Choose to add the artwork to your "Favourites" collection.
 ## Local Development
 1. Clone this repository: ```git clone https://github.com/siusie/MET-artwork-app.git```
 2. Install npm packages in root directory: ```npm install```
-3. Run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
-```
+3. Run the development server: ```npm run dev``` or ```yarn dev```
 4. Open [http://localhost:3000](http://localhost:3000) with your browser to see the result
