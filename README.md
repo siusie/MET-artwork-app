@@ -39,7 +39,10 @@ Choose to add the artwork to your "Favourites" collection.
 ![image](https://github.com/siusie/MET-artwork-app/assets/93149998/38469a1c-2980-4286-ac54-584d46a8a648)
 
 
-To run the server locally:
+## Local Development
+1. Clone this repository: ```git clone https://github.com/siusie/MET-artwork-app.git```
+2. Install npm packages in root directory: ```npm install```
+3. Start the server:
 
 ```bash
 npm run dev
