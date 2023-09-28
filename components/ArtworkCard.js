@@ -22,7 +22,7 @@ export default function ArtworkCard(props) {
     else if (data?.objectID) {
         return (<>
             <Card>
-                {data.primaryImageSmall ? <Card.Img variant="top" src={data.primaryImageSmall} /> : <Card.Img variant="top" src="https://via.placeholder.com/375x375.png?text=[+Not+Available+]" />}
+                {data.primaryImageSmall ? <Card.Img variant="top" src={data.primaryImageSmall} /> : <Card.Img variant="top" src="https://commons.wikimedia.org/wiki/File:No-Image-Placeholder.svg" />}
                 <Card.Body>
                     <Card.Title>
                         {data?.title ? data.title : "N/A"}
