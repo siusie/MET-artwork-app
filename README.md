@@ -6,7 +6,7 @@ Create an account to browse through the gallery of [The Metropolitan Museum of A
 
 ---
 
-## Example live site
+### Example live site
 
 This web app is deployed at [artwork-finder.vercel.app](https://artwork-finder.vercel.app/)
 
