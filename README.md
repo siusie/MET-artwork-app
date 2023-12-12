@@ -12,7 +12,7 @@ This web app is deployed at [artwork-finder.vercel.app](https://artwork-finder.v
 
 ### Main layout
 
-![image](https://github.com/siusie/MET-artwork-app/assets/93149998/7504a94c-b2ec-4fcf-a09b-277ddd3f60fc)
+![image](https://github.com/siusie/MET-artwork-app/assets/93149998/dba40486-70ca-4f5c-8050-9f0e2d8917ca)
 
 ### Account registration
 
